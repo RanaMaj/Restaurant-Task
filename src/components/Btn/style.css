@@ -1,0 +1,8 @@
+.activeBtn {
+    width: 215px;
+    height: 55px;
+    background-color: transparent;
+    border: 1px solid #fffccc;
+    color: #fff;
+    margin-top: 47px;
+}
